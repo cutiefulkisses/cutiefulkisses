@@ -2,7 +2,7 @@
 <div align="center">
   <table>
   <tr>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=435&duration=2000&pause=19&color=4A4CBD&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=i+don't+think+i+can+believe+in;something+that+might+not+even+exist." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=435&duration=2000&pause=19&color=4A4CBD&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=i+don't+think+i+can+believe+in;something+that+might+not+even+exist." alt="Typing SVG" /></a>
     <td valign="middle" align="center" width="700" height="800">
       <br><br><p>${\textsf{\color{#4A4CBD}carni}}$ 　     　   <img src="https://file.garden/alqc1dqplE9QfpOY/tumblr_3419c191b22f35800f82827f87bf5a8d_a1657bff_75.gif" width="30"> 　     　 ${\textsf{\color{#8b60b9}He / They}}$</p>
       <p>${\textsf{\color{#5b5b5b}adhd / bpd}}$ 　    ✦ 　    ${\textsf{\color{#5b5b5b}fictkin}}$ </p>

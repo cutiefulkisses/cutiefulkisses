@@ -2,8 +2,8 @@
   <table>
   <tr>
     <td valign="middle" align="center" width="700" height="800">
-      <br><br><p>${\textsf{\color{#FF51FF}Carni}}$ 　     　   <img src="https://file.garden/alqc1dqplE9QfpOY/tumblr_3419c191b22f35800f82827f87bf5a8d_a1657bff_75.gif" width="30"> 　     　 ${\textsf{\color{#73F063}He / They}}$</p>
-      <p>${\textsf{\color{#FF51FF}adhd / bpd}}$ 　    ✦ 　    ${\textsf{\color{#73F063}fictkin}}$ </p>
+      <br><br><p>${\textsf{\color{#4A4CBD}Carni}}$ 　     　   <img src="https://file.garden/alqc1dqplE9QfpOY/tumblr_3419c191b22f35800f82827f87bf5a8d_a1657bff_75.gif" width="30"> 　     　 ${\textsf{\color{#4A4CBD}He / They}}$</p>
+      <p>${\textsf{\color{#5b5b5b}adhd / bpd}}$ 　    ✦ 　    ${\textsf{\color{#5b5b5b}fictkin}}$ </p>
       <br><p align="center"><img width="300" alt="azuretimeaw" src="https://github.com/user-attachments/assets/cbc387c3-bff7-4a09-a481-ae818ebced15" />
     <details> <summary>${\textsf{\color{#FF51FF}byi/f}}$</summary>
       <br><p> preferably call me ky or carni, any other names im referred to as are for close friends only</p>

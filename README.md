@@ -12,7 +12,7 @@
       <p> c * h freely, even if my name says otherwise!! </p>
       <p> I dont care who interacts, i interact or who follows me so do not nag me about it</p>
       <p> i am a shy person and usually do not do first approaches, i am still looking forward to make friends so please do!</p>
-      <p> kins: Slingshot (P!) Kasper / Infected (regretevator) Twotime (forsaken) 
+      <p> kins: Slingshot (P!) Kasper / Infected (regretevator) Twotime (forsaken) - more will be added
     </details>
    <div align="center">
 <br>

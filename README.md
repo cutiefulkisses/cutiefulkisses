@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-<p align="center"></strong><br><a href="https://hits.sh/github.com/woahlulz/"><img alt="Hits" src="https://hits.sh/github.com/woahlulz.svg?label=sacrifies's%20%20&extraCount=2479&color=8b60b9&labelColor=5b5b5b"/></a></p>
+<p align="center"></strong><br><a href="https://hits.sh/github.com/woahlulz/"><img alt="Hits" src="https://hits.sh/github.com/woahlulz.svg?label=𓆩 ꥟ sacrifies's%20%20&extraCount=2479&color=8b60b9&labelColor=5b5b5b"/></a></p>
       <br><br><p>${\textsf{\color{#8b60b9}ask for other socials !!}}$</p>
      　      　     　     <a href="https://ipwnn00bzlulz.atabook.org/">ata</a>  　     　     ✦ 　     　        　   
     </td>
